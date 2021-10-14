@@ -1,0 +1,12 @@
+env/
+.vscode/
+.ipynb_checkpoints
+.DS_Store
+data/
+__pycache__/
+__local__/
+__test__/
+.mypy_cache/
+server.txt
+ISIC2018_Task3_Training_Input/
+log/
